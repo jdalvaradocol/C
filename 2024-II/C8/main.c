@@ -7,8 +7,6 @@
 
 // prototipo de la funcion.
 
-
-
 // Funcion principal.
 
 int main()
@@ -53,18 +51,3 @@ int main()
     return 0;
 
 }
-
-int variablesiguales(int varA, int varB, int varC)
-{
-    if (varA == varB == varC)
-    {
-        return 1;
-    }
-    else
-    {
-        return 0;
-    }
-
-}
-
-
